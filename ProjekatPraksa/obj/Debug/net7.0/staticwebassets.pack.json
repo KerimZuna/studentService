@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\book.svg",
+      "PackagePath": "staticwebassets\\images\\book.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\cap.svg",
+      "PackagePath": "staticwebassets\\images\\cap.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\mouse.svg",
+      "PackagePath": "staticwebassets\\images\\mouse.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\todo.svg",
+      "PackagePath": "staticwebassets\\images\\todo.svg"
+    },
+    {
       "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
