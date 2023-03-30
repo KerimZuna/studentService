@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IyQC6Q1lO21/LYf31KFqzSTKvM0HYjeaGEWyl5ZLT78=",
+  "Hash": "422Z+BQDzz7jCOlme9QgOwYuu6wnW6b4kljsHP6BXEU=",
   "Source": "ProjekatPraksa",
   "BasePath": "_content/ProjekatPraksa",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProjekatPraksa.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
+    },
+    {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\css\\site.css",
       "SourceId": "ProjekatPraksa",
       "SourceType": "Discovered",
@@ -1122,6 +1139,23 @@
       "OriginalItemSpec": "wwwroot\\images\\book.svg"
     },
     {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\bookcrna.svg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/bookcrna.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bookcrna.svg"
+    },
+    {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\cap.svg",
       "SourceId": "ProjekatPraksa",
       "SourceType": "Discovered",
@@ -1137,6 +1171,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\cap.svg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\capcrna.svg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/capcrna.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\capcrna.svg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\miscrni.svg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/miscrni.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\miscrni.svg"
     },
     {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\mouse.svg",
@@ -1171,6 +1239,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\todo.svg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\todocrna.svg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/todocrna.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\todocrna.svg"
     },
     {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\js\\site.js",

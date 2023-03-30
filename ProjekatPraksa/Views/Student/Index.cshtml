@@ -1,10 +1,14 @@
 ﻿@model IEnumerable<ProjekatPraksa.Models.StudentEntity>
+@using Microsoft.AspNetCore.Identity
 
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<h2 class="d-flex justify-content-center align-content-center text-white pt-4">Dobrošli na Vaš 'Student list' @UserManager.GetUserName(User)</h2>
 
 <p>
     <a asp-action="Create">Create New</a>

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ProjekatPraksa.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
       "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -17,8 +21,20 @@
       "PackagePath": "staticwebassets\\images\\book.svg"
     },
     {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\bookcrna.svg",
+      "PackagePath": "staticwebassets\\images\\bookcrna.svg"
+    },
+    {
       "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\cap.svg",
       "PackagePath": "staticwebassets\\images\\cap.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\capcrna.svg",
+      "PackagePath": "staticwebassets\\images\\capcrna.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\miscrni.svg",
+      "PackagePath": "staticwebassets\\images\\miscrni.svg"
     },
     {
       "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\mouse.svg",
@@ -27,6 +43,10 @@
     {
       "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\todo.svg",
       "PackagePath": "staticwebassets\\images\\todo.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\todocrna.svg",
+      "PackagePath": "staticwebassets\\images\\todocrna.svg"
     },
     {
       "Id": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\js\\site.js",
