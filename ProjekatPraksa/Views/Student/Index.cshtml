@@ -8,11 +8,8 @@
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
 
-<h2 class="d-flex justify-content-center align-content-center text-white pt-4">Dobrošli na Vaš 'Student list' @UserManager.GetUserName(User)</h2>
+<h2 class="d-flex justify-content-center align-content-center pt-4 pb-4">Dobrošli na Vaš 'Student list' @UserManager.GetUserName(User)</h2>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 <table class="table">
     <thead>
         <tr>
@@ -61,3 +58,7 @@
 }
     </tbody>
 </table>
+<br />
+<div class="d-flex justify-content-center">
+    <a class="w-25 btn btn-primary" asp-action="Create">UNOS PODATAKA</a>
+</div>

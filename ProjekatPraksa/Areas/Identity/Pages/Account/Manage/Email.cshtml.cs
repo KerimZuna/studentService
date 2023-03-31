@@ -69,7 +69,7 @@ namespace ProjekatPraksa.Areas.Identity.Pages.Account.Manage
             /// </summary>
             [Required]
             [EmailAddress]
-            [Display(Name = "New email")]
+            [Display(Name = "Novi email")]
             public string NewEmail { get; set; }
         }
 
