@@ -282,3 +282,6 @@ C:\Users\PC\source\repos\Praksa\ProjekatPraksa\ProjekatPraksa\bin\Debug\net7.0\M
 C:\Users\PC\source\repos\Praksa\ProjekatPraksa\ProjekatPraksa\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\PC\source\repos\Praksa\ProjekatPraksa\ProjekatPraksa\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\PC\source\repos\Praksa\ProjekatPraksa\ProjekatPraksa\obj\Debug\net7.0\ProjekatPraksa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\Praksa\ProjekatPraksa\ProjekatPraksa\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\PC\source\repos\Praksa\ProjekatPraksa\ProjekatPraksa\bin\Debug\net7.0\xunit.core.dll
+C:\Users\PC\source\repos\Praksa\ProjekatPraksa\ProjekatPraksa\bin\Debug\net7.0\xunit.execution.dotnet.dll

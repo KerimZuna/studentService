@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KawPxlKQTtUep6t6MgRUCFk6lQ5UEOSPMUyPrnnlb6aKf1pEqoZmaKL7OLNbQFp9e3fOG46xk984w6elXZ826A==",
+  "dgSpecHash": "LCUMvdmoEocmE4r0mYPmQI0Zw8qUZhJPQccVx8qMX8Vtm2idyvBsmCEXz8zEF3bzPBPgFkdxzlTtraEhuCmVJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\ProjekatPraksa.csproj",
   "expectedPackageFiles": [
@@ -191,7 +191,10 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\xunit.extensibility.core\\2.4.2\\xunit.extensibility.core.2.4.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512"
   ],
   "logs": []
 }

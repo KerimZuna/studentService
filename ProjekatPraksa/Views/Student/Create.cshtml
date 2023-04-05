@@ -4,43 +4,50 @@
     ViewData["Title"] = "Create";
 }
 
-<h2 class="d-flex justify-content-center align-content-center pt-4 pb-3">Unos podataka</h2>
+<h2 class="d-flex justify-content-center pt-3">UNOS NOVOG STUDENTA</h2>
+
 <hr />
-<div class="row d-flex justify-content-center">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="FirstName" class="control-label"></label>
-                <input asp-for="FirstName" class="form-control" />
-                <span asp-validation-for="FirstName" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="LastName" class="control-label"></label>
-                <input asp-for="LastName" class="form-control" />
-                <span asp-validation-for="LastName" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Mobile" class="control-label"></label>
-                <input asp-for="Mobile" class="form-control" />
-                <span asp-validation-for="Mobile" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
-                <input asp-for="Email" class="form-control" />
-                <span asp-validation-for="Email" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Source" class="control-label"></label>
-                <input asp-for="Source" class="form-control" />
-                <span asp-validation-for="Source" class="text-danger"></span>
-            </div>
-            <div class="form-group d-flex justify-content-center pt-2">
-                <input type="submit" value="Kreiraj" class="w-25 btn btn-danger" />
-                <div class="w-25"></div>
-                <a class="w-25 btn btn-primary" asp-action="Index">Nazad</a>
-            </div>
-        </form>
+<div class="d-flex justify-content-center align-content-center">
+    <div class="row" style="width: 380px">
+        <div class="col-md-12">
+            <form enctype="multipart/form-data" asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label>Ime</label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label>Prezime</label>
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label>Telefon</label>
+                    <input asp-for="Mobile" class="form-control" />
+                    <span asp-validation-for="Mobile" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label>Slika</label>
+                    <div class="custom-file">
+                        <input asp-for="Image" class="custom-file-input" id="FLImage">
+                        <label class="custom-file-label" for="FLImage"></label>
+                    </div>
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                    
+                </div>
+                <div class="form-group d-flex justify-content-center pt-3">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                    <div style="width:5px"></div>
+                    <a class="btn btn-secondary" asp-action="Index">Nazad</a>
+                </div>
+            </form>
+        </div>
     </div>
 </div>
 
