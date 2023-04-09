@@ -4,10 +4,15 @@
     ViewData["Title"] = "Index";
 }
 
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
 
 <div class="row justify-content-center align-items-center">
     <div class="col-auto">
-        <table class="table align-middle">
+        <input type="text" id="search-input" placeholder="Search">
+        <table id="my-table" class="table align-middle">
             <thead>
                 <tr>
                     <th>
@@ -62,3 +67,14 @@
 <div class="d-flex justify-content-center align-content-center">
     <a class="btn btn-primary" asp-action="Create">Novi unos</a>
 </div>
+
+<script>
+    $(document).ready(function () {
+        $("#search-input").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("#my-table tbody tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+    });
+</script>

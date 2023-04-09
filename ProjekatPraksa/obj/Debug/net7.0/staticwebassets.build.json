@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aimoJDjiJoNugkbd1BoKWaPMcVdtDZi/LvSEqtuqkAU=",
+  "Hash": "OU0xr8VmXcS9Ldq2WZEjuuHLdmmw6Oc84N324th4B4k=",
   "Source": "ProjekatPraksa",
   "BasePath": "_content/ProjekatPraksa",
   "Mode": "Default",
@@ -1122,6 +1122,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\11e94d11-4ba4-4f99-9c7b-b935e5261637_Slika2.jpg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/11e94d11-4ba4-4f99-9c7b-b935e5261637_Slika2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\11e94d11-4ba4-4f99-9c7b-b935e5261637_Slika2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\284522c6-3a2b-4f27-9015-64706d103fd3_Slika4.jpg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/284522c6-3a2b-4f27-9015-64706d103fd3_Slika4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\284522c6-3a2b-4f27-9015-64706d103fd3_Slika4.jpg"
+    },
+    {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\31c60ea8-84c5-4420-b9cf-d2b4ac126146_Slika4.jpg",
       "SourceId": "ProjekatPraksa",
       "SourceType": "Discovered",
@@ -1137,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\31c60ea8-84c5-4420-b9cf-d2b4ac126146_Slika4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\4bace7b2-585f-4383-b21f-ca7a6a7731b6_Slika3.jpg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/4bace7b2-585f-4383-b21f-ca7a6a7731b6_Slika3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4bace7b2-585f-4383-b21f-ca7a6a7731b6_Slika3.jpg"
     },
     {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\651438c3-1839-47d6-b53b-8e0dab4a9772_Slika1.jpg",
@@ -1173,6 +1224,23 @@
       "OriginalItemSpec": "wwwroot\\images\\7db4dabf-a6fc-4d28-a5a3-a508f5e3fa46_Slika2.jpg"
     },
     {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\964bc19d-faea-485c-b3f8-8261175b98b4_Slika1.jpg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/964bc19d-faea-485c-b3f8-8261175b98b4_Slika1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\964bc19d-faea-485c-b3f8-8261175b98b4_Slika1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\ac5c0b52-4430-4670-8b6a-776f43c86954_20220426_174509.jpg",
       "SourceId": "ProjekatPraksa",
       "SourceType": "Discovered",
@@ -1188,6 +1256,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ac5c0b52-4430-4670-8b6a-776f43c86954_20220426_174509.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\ac79c44d-f4f5-4507-b754-b593922c7dde_Slika4.jpg",
+      "SourceId": "ProjekatPraksa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\",
+      "BasePath": "_content/ProjekatPraksa",
+      "RelativePath": "images/ac79c44d-f4f5-4507-b754-b593922c7dde_Slika4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ac79c44d-f4f5-4507-b754-b593922c7dde_Slika4.jpg"
     },
     {
       "Identity": "C:\\Users\\PC\\source\\repos\\Praksa\\ProjekatPraksa\\ProjekatPraksa\\wwwroot\\images\\bc282b3d-8551-47d2-aab4-297030a2ab66_Slika4.jpg",
