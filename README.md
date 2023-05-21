@@ -1,9 +1,9 @@
-## Student Service
+# Student Service
 is a small project during an internship in the 'Codify 387' company from Zenica, Bosnia Herzegovina. The goal was to get familiarized with .NET, MVC and JQuery.
 
 * Technologies used: .NET, C#, JQuery, MVC architecture
 
-Screenshots below:
+**Screenshots below:**
 
 ![Login](https://github.com/KerimZuna/StudentService/blob/master/Login.png)
 ![Registration](https://github.com/KerimZuna/StudentService/blob/master/Registracija.png)
